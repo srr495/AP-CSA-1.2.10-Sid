@@ -21,6 +21,6 @@ public class madLibs {
         System.out.println("Enter what you would like to insert into the fifth blank here: ");
         String blank5 = scanner.nextLine();
         System.out.println(gstr1 + " " + blank1 + " " + gstr2 + " " + blank2 + gstr3 + " " + blank3 + " " + gstr4 + " " + blank4 + " " + gstr5 + " " + blank5 + " " + gstr6);
-        scanner.close();
+        scanner.close(); 
     }
 }
