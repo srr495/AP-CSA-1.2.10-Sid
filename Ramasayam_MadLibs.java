@@ -1,6 +1,6 @@
 import java.util.Scanner;
 
-public class madLibs {
+public class Ramasayam_MadLibs {
     public static void main (String[] args) {
         Scanner scanner = new Scanner(System.in);
         String gstr1 = "Hi, my name is";
